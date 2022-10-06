@@ -1,7 +1,7 @@
 {
   "name": "tabs",
   "version": "0.1.0",
-  "homepage": "https://trojanonloose.github.io/menus",
+  "homepage": "https://trojanonloose.github.io/Tabs-project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
